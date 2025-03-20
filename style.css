@@ -17,14 +17,14 @@ body {
     border-radius: 20px;
     width: 500px;
     height: 540px;
-    color: #0DCAF0;
-    box-shadow: 10px 10px 100px #0DCAF0;
+    color:  #f0ca0d;
+    box-shadow: 10px 10px 100px #f0ca0d;
     transition: all 0.5s ease;
 }
 
 .container:hover {
-    box-shadow: 10px 10px 100px #f0ca0d;
-    color: #f0ca0d;
+    box-shadow: 10px 10px 100px #0DCAF0 ;
+    color: #0DCAF0;
 }
 
 .container:hover button {
