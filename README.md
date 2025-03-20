@@ -9,4 +9,5 @@ A Rock Paper Scissor game.
 
 ![image](https://github.com/user-attachments/assets/c85a9a30-d65e-478f-b7fa-ca6afc619347)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7ef61ef9-8225-40f9-aa53-041ed25569ca)
+
