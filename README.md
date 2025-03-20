@@ -2,12 +2,13 @@
 A Rock Paper Scissor game.
 
 ### Landing page
-![image](https://github.com/user-attachments/assets/91b705fb-c35f-43b7-b715-2de619b5f4da)
+![image](https://github.com/user-attachments/assets/baea49ff-1d80-4af9-91b0-80310103afaf)
 
 #### When hovered
-![image](https://github.com/user-attachments/assets/3c070933-5c86-4c8c-9b22-99c9bbd1be31)
+![image](https://github.com/user-attachments/assets/736d4f76-2016-4c3d-8bf0-66e04bbd5908)
 
-![image](https://github.com/user-attachments/assets/c85a9a30-d65e-478f-b7fa-ca6afc619347)
+![image](https://github.com/user-attachments/assets/5a2e3c74-d6af-46d3-915c-fb8d11270227)
 
-![image](https://github.com/user-attachments/assets/7ef61ef9-8225-40f9-aa53-041ed25569ca)
+![image](https://github.com/user-attachments/assets/7217203a-dc5e-4c91-95d9-f944bddd48ad)
+
 
