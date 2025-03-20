@@ -4,6 +4,8 @@ const containerDisplay = document.getElementById("containerDisplay");
 const resultDisplay = document.getElementById("resultDisplay");
 const playerScoreDisplay = document.getElementById("playerScore");
 const computerScoreDisplay = document.getElementById("computerScore");
+
+
 let playerScore = 0;
 let computerScore = 0;
 
@@ -48,15 +50,20 @@ function playGame(playerChoice) {
     if (result == "You win!!!") {
         playerScore++;
         resultDisplay.style.color = "lime";
+        containerDisplay.style.boxShadow = "3px 10px 100px lime";
     }
     else if (result == "You lose!") {
         computerScore++;
         resultDisplay.style.color = "red";
+        containerDisplay.style.boxShadow = "3px 10px 100px red";
     }
     else{
         resultDisplay.style.color = "#0DCAF0";
+        containerDisplay.style.boxShadow = "3px 10px 100px #0DCAF0";
     }
 
     playerScoreDisplay.textContent = `Player Score: ${playerScore}`;
     computerScoreDisplay.textContent = `Computer Score: ${computerScore}`;
+
+    
 }
