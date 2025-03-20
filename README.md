@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock Paper Scissors
 A Rock Paper Scissor game.
 
 ### Landing page
